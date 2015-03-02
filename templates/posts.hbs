@@ -1,12 +1,12 @@
 <div class="col-md-12">
-  <h3>Some Kewl Posts!!1</h3>
+  <p><h3>News you can use!</h3></p>
   <div class="row col-md-12">
 
-  <ul>
     {{#each post in model}}
-    <li>{{post.title}}</li>
+      <div class="col-md-3 post-headlines" style="background: url('../img/{{unbound post.image}}')">
+        <h4>{{post.title}}</h4>
+        <!-- <img class="story-img" src="../img/{{unbound post.image}}"> -->
+      </div>
     {{/each}}
-  </ul>
-
   </div>
 </div>
