@@ -2,20 +2,11 @@
   <h3>Some Kewl Posts!!1</h3>
   <div class="row col-md-12">
 
-    <div class="col-md-4">
-      <h4>Terminal Dividers Drive Local Man Insane</h4>
-      <img src="../img/dividers.jpg" class="story-img">
-    </div>
-
-    <div class="col-md-4">
-      <h4>Skeletons Proven To Be A Myth</h4>
-      <img src="../img/skeletons.jpg" class="story-img">
-    </div>
-
-    <div class="col-md-4">
-      <h4>Giraffes: Worlds Most Venomous Insect (Caught On Camera!)</h4>
-      <img src="../img/giraffe.jpg" class="story-img">
-    </div>
+  <ul>
+    {{#each post in model}}
+    <li>{{post.title}}</li>
+    {{/each}}
+  </ul>
 
   </div>
 </div>
