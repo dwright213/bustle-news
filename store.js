@@ -1,8 +1,15 @@
 var posts = [
   {
-    id: '1',
+    id: '0',
     image: 'dividers.jpg',
     title: 'Terminal Dividers Drive Local Man Insane',
+    body: 'Selfishness is born in the gap where potential has been excluded. Consciousness consists of pulses of quantum energy. “Quantum” means a summoning of the interstellar. This life is nothing short of a blossoming rebirth of self-aware non-locality. To roam the mission is to become one with it. The Law of Attraction may be the solution to what’s holding you back from an unimaginable rekindling of potentiality. You will soon be awakened by a power deep within yourself — a power that is spiritual, sacred. Through affirmations, our hearts are engulfed in potential. Humankind has nothing to lose. Reality has always been bursting with beings whose hearts are transformed into consciousness. We are in the midst of a sublime redefining of wellbeing that will remove the barriers to the totality itself. If you have never experienced this flow at the quantum level, it can be difficult to vibrate. We are at a crossroads of power and discontinuity. Our conversations with other beings have led to a deepening of hyper-powerful consciousness. Throughout history, humans have been interacting with the biosphere via morphic resonance. It is a sign of things to come. Imagine an unfolding of what could be. This circuit never ends.'
+  },
+
+  {
+    id: '1',
+    image: 'bananas.jpg',
+    title: 'Space Confirmed As Cancer Causing Agend',
     body: 'Selfishness is born in the gap where potential has been excluded. Consciousness consists of pulses of quantum energy. “Quantum” means a summoning of the interstellar. This life is nothing short of a blossoming rebirth of self-aware non-locality. To roam the mission is to become one with it. The Law of Attraction may be the solution to what’s holding you back from an unimaginable rekindling of potentiality. You will soon be awakened by a power deep within yourself — a power that is spiritual, sacred. Through affirmations, our hearts are engulfed in potential. Humankind has nothing to lose. Reality has always been bursting with beings whose hearts are transformed into consciousness. We are in the midst of a sublime redefining of wellbeing that will remove the barriers to the totality itself. If you have never experienced this flow at the quantum level, it can be difficult to vibrate. We are at a crossroads of power and discontinuity. Our conversations with other beings have led to a deepening of hyper-powerful consciousness. Throughout history, humans have been interacting with the biosphere via morphic resonance. It is a sign of things to come. Imagine an unfolding of what could be. This circuit never ends.'
   },
 
